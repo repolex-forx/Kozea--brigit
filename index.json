@@ -1,0 +1,11 @@
+{
+  "org": "Kozea",
+  "repo": "brigit",
+  "versions": [
+    {
+      "commit": "247482e49eb7ad562555ac7a3f654f2cdace619f",
+      "tag": "1.3.0",
+      "parsed_at": "2026-10-28T17:20:30.634917+00:00"
+    }
+  ]
+}
