@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "Kozea",
+  "repo": "brigit",
+  "versions": [
+    {
+      "commit": "247482e49eb7ad562555ac7a3f654f2cdace619f",
+      "parsed_at": "2026-10-28T17:17:42.322084+00:00",
+      "tag": "1.3.0",
+      "filetree": "filetree/247482e49eb7ad562555ac7a3f654f2cdace619f.nq.gz",
+      "blobs": [
+        "blob/62f138bc3c50e3cfba60f4f65a1f966f1c221f31.nq.gz",
+        "blob/dbe6ce96b5975510dc7f349f22399becc95492ca.nq.gz",
+        "blob/d2b5a98ae4095f1aef32008ec60c5d0129e570d7.nq.gz",
+        "blob/3dce25081549f9f8aa6c2ee5b0a354a8ac673f84.nq.gz",
+        "blob/d059f72c3b345cf637065538104808a3f9ec039b.nq.gz",
+        "blob/62b631a76b5a5b1c22b9ebe0c2b2ac084711d249.nq.gz",
+        "blob/23ac759785f69752e5f10319beedb4f99496e3a0.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/665f62d2b3e9df7dc99ba294c8e2d2c4cf381128.nq.gz",
+        "blob/b7e478982ccf9ab1963c74e1084dfccb6e42c583.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
